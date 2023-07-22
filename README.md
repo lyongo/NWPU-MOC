@@ -1,2 +1,2 @@
 # NWPU-MOC
-This is a repository about NWPU-MOC dataset and code.
+This is a repository about the NWPU-MOC dataset and code.
