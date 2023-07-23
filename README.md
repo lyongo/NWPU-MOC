@@ -5,6 +5,7 @@
 This repo is the official implementation of the paper: **NWPU-MOC: A Benchmark for Fine-grained Multi-category Object Counting in Aerial Images**. 
 
 ![fig1](fig/fig1.png)
+![fig2](fig/fig2.png)
 
 
 
@@ -46,22 +47,27 @@ This repo is the official implementation of the paper: **NWPU-MOC: A Benchmark f
       │       └── jsons
       │           ├── A0_2020_orth25_0_8_1.json
       │           ├── A0_2020_orth25_0_8_2.json
+      │           ├── ...
       │           └── A7_2020_orth25_9_7_4.json
       ├── gt
       │   ├── A0_2020_orth25_0_8_3.npz
       │   ├── A0_2020_orth25_1_10_2.npz
+      │   ├── ...
       │   └── A7_2020_orth25_9_7_4.npz
       ├── gt14
       │   ├── A0_2020_orth25_0_8_1.npz
       │   ├── A0_2020_orth25_0_8_2.npz
+      │   ├── ...
       │   └── A7_2020_orth25_9_7_4.npz
       ├── ir
       │   ├── A0_2020_ir_0_8_1.png
       │   ├── A0_2020_ir_0_8_2.png
+      │   ├── ...
       │   └── A7_2020_ir_9_7_4.png
       ├── rgb
       │   ├── A0_2020_orth25_0_8_1.png
       │   ├── A0_2020_orth25_0_8_2.png
+      │   ├── ..
       │   └── A7_2020_orth25_9_7_4.png
       ├── test.txt
       ├── train.txt
@@ -70,7 +76,7 @@ This repo is the official implementation of the paper: **NWPU-MOC: A Benchmark f
 
   
 
-  ![fig2](fig/fig2.png)
+  ![fig3](fig/fig3.png)
 
   
 
@@ -114,6 +120,3 @@ Our code borrows a lot from the C^3 Framework, you may cite:
   year={2019}
 }
 ```
-
-If you use crowd counting models in this repo (MCNN, C3F-VGG, CSRNet, CANNet, SCAR, and SFCN+), please cite them. 
-
