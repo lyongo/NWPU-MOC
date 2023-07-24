@@ -24,7 +24,7 @@ This repo is the official implementation of the paper: **NWPU-MOC: A Benchmark f
 
 - Data Preparation
 
-  - Download NWPU-MOC dataset from [GoogleDrive](https://drive.google.com/file/d/1Sib7cGQHQStLMeJs-uHBskek3AEi3THB/view?usp=drive_link) or [BaiduNetDisk](https://pan.baidu.com/s/1ks1sqKw470n9cAIBOfhGZg?pwd=nwpu ). 
+  - Download NWPU-MOC dataset from [GoogleDrive](https://drive.google.com/file/d/1AHOBAzOag0jlH3cLjukXdMYsCJhYaiOi/view?usp=drive_link) or [BaiduNetDisk](https://pan.baidu.com/s/1ks1sqKw470n9cAIBOfhGZg?pwd=nwpu ). 
   - Unzip ```*zip``` files. Finally, the folder tree is below:
 
   ```
