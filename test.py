@@ -35,7 +35,7 @@ model_path = ''
 datasetting = import_module(f'datasets.setting.{dataset}')
 cfg_data = datasetting.cfg_data
 
-net_name = 'Res101_SFCN'
+net_name = 'MCC'
 gpu_id = [0]
 
 if len(gpu_id)==1:
