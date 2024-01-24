@@ -107,6 +107,16 @@ We only provide an example to forward the model on the test set. You may need to
 If you find this project useful for your research, please cite:
 
 ```
+@ARTICLE{10410235,
+  author={Gao, Junyu and Zhao, Liangliang and Li, Xuelong},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={NWPU-MOC: A Benchmark for Fine-grained Multi-category Object Counting in Aerial Images}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Task analysis;Remote sensing;Automobiles;Cranes;Buildings;Annotations;Vegetation;Benchmark;object counting;multi-spectral aerial image;remote sensing},
+  doi={10.1109/TGRS.2024.3356492}}
 
 ```
 
