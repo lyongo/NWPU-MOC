@@ -115,7 +115,6 @@ If you find this project useful for your research, please cite:
   volume={},
   number={},
   pages={1-1},
-  keywords={Task analysis;Remote sensing;Automobiles;Cranes;Buildings;Annotations;Vegetation;Benchmark;object counting;multi-spectral aerial image;remote sensing},
   doi={10.1109/TGRS.2024.3356492}}
 
 ```
